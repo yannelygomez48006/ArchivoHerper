@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppSqLiteOpenHelper</string>
+
+    <string name="txtCodigo">Codigo</string>
+    <string name="txtDescripcion">Descripcion</string>
+    <string name="txtPrecio">Precio</string>
+
+    <string name="ivProducto">Imagen"</string>
+    <string name="btnTomarFoto">Tomar Foto"</string>
+
+    <string name="btnRegistrar">Registrar Producto"</string>
+    <string name="btnBuscar">Buscar Producto"</string>
+    <string name="btnEditar">Editar Producto"</string>
+    <string name="btnEliminar">Eliminar Producto"</string>
+    <string name="btnMostrarLista">Mostrar Lista de Productos"</string>
+
+
+</resources>
